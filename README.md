@@ -20,3 +20,4 @@ Selectable features
 * SSM - http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ec2-run-command.html
 * Private subnet
 * cloudtrail?
+* Docker remote API - https://dzone.com/articles/monitoring-docker-containers-docker-stats-cadvisor-1
